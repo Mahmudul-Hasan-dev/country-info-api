@@ -1,0 +1,9 @@
+#all-countries {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+
+}
+
+.country {
+    border: 1px solid rgb(94, 89, 81);
+}
